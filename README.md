@@ -1,11 +1,64 @@
-# Sample Snack app
+# Focus Time
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+### Screenshots
+|||
+|-|-|
+|![](/assets/Focus_1.jpg) | ![](/assets/Focus_2.jpg)
+|![](/assets/Focus_3.jpg) | ![](/assets/Focus_4.jpg)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+##  🔧 Built with
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- [React Native](https://reactnative.dev/)
+- [Expo Snack](https://snack.expo.dev/)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+## 🔴 Live Demo
+https://snack.expo.dev/@rntaate/focustime-app
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### How to run the app on your phone
+
+#### Prerequisites
+- Expo Go App (*You can download it from the __Google Play Store__ or the __App Store__*)
+
+#### Steps to Follow
+
+1. Visit the App site [here](https://snack.expo.dev/@rntaate/focustime-app)
+
+1. Click on the __My Device__ tab in the preview pane on the right side of the page.
+
+1. Open your Expo Go App on your phone.
+
+1. Scan the __QR__ code with the Expo App.
+
+1. Wait for the app to open.
+
+
+## 🤝 Contributions
+  There are two ways of contributing to this project:
+
+1. If you see something wrong or not working, please check [the issue tracker section](https://github.com/RNtaate/FocusTimeApp-React-Native-/issues), if that problem you met is not in already opened issues then open the issue by clicking on `new issue` button.
+
+2. If you have a solution to that, and you are willing to work on it, follow the below steps to contribute:
+    1.  Fork this repository
+
+    1.  Clone it on your local computer by running `git@github.com:RNtaate/FocusTimeApp-React-Native-.git` __Replace *RNtaate* with the username you use on github__
+    1.  Open the cloned repository which appears as a folder on your local computer with your favorite code editor
+    1.  Create a separate branch off the *master branch* or *main branch*,
+    1.  Write your codes which fix the issue you found
+    1.  Commit and push the branch you created
+    1.  Raise a pull request, comparing your new created branch with our default branch [here](https://github.com/RNtaate/FocusTimeApp-React-Native-)
+
+## ✒️  Authors
+
+👤 **Roy Ntaate**
+
+- Github: [@RNtaate](https://github.com/RNtaate)
+- Twitter: [@RNtaate](https://twitter.com/RNtaate)
+- Linkedin: [roy-ntaate](https://linkedin.com/in/roy-ntaate)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgements
+- [Udemy](https://www.udemy.com/)
+- [Zero To Mastery (ZTM)](https://zerotomastery.io/)
