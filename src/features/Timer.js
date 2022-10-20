@@ -60,8 +60,8 @@ const Timer = ({ currentSubject, clearSubject, onTimerEnd }) => {
 
       {/* Minutes Button Wrapper */}
       <View style={styles.minutesView}>
-        {MINUTES.map((minute) => {
-          return <RoundedButton title={`${minute}`} size={75} onPress={() => setMinutes(minute)} />
+        {MINUTES.map((minute, index) => {
+          return <RoundedButton key={index} title={`${minute}`} size={75} onPress={() => setMinutes(minute)} />
         })}
       </View>
 
