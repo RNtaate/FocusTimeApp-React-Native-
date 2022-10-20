@@ -8,7 +8,7 @@ import { RoundedButton } from '../components/RoundedButton';
 
 const Focus = ({setCurrentSubject}) => {
   const [subject, setSubject] = useState(null);
-  console.log(subject);
+
   return (
     <View style={styles.focusContainer}>
       <Text style={styles.greeting}>WHAT WOULD YOU LIKE TO FOCUS ON?</Text>
