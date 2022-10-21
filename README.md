@@ -1,5 +1,14 @@
 # Focus Time
 
+## Project Description
+
+> This project is a simple mobile application built in React Native to enable the user to focus on a specific task by entering the task at hand and specifying the amount of time he/she would like to focus on it.
+
+> The project also keeps track of the tasks that were fully focused on already.
+
+> #### Future Additional Features:
+> - Ability to specify a custom time to focus on a task and not choose from a predifined list of times.
+
 ### Screenshots
 |||
 |-|-|
@@ -31,6 +40,26 @@ https://snack.expo.dev/@rntaate/focustime-app
 
 1. Wait for the app to open.
 
+
+## 	💻 Get started on local machine
+### Prerequisites
+1. Yarn
+1. Node
+1. Expo-cli (*You can learn more about it including how to install it [here](https://docs.expo.dev/workflow/expo-cli/)*)
+1. Android Simulator / IOS Simulator *__OR__* the __Expo Go App__ on your mobile phone.
+
+
+### Steps to follow
+
+1. Clone the repository to your local machine by running `git@github.com:RNtaate/FocusTimeApp-React-Native-.git` in your terminal
+
+1. On your local machine, navigate to the project folder using `cd FocusTimeApp-React-Native-` in your terminal
+
+1. Run `yarn` to install all the necessary dependencies.
+
+1. Run `yarn start` to start expo
+
+1. Using the __Expo Go App__ on your phone, scan the QR code the appears in your terminal.
 
 ## 🤝 Contributions
   There are two ways of contributing to this project:
